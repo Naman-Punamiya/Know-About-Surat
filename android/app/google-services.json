@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360036864400",
+    "project_id": "knowaboutsurat-9b0cd",
+    "storage_bucket": "knowaboutsurat-9b0cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360036864400:android:68a619d5249ab7e651a315",
+        "android_client_info": {
+          "package_name": "com.anycar.know_about_surat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBji0dUaT8waWf4l4-9SqEmBOSzPVfr3DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
