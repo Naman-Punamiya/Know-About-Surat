@@ -172,8 +172,7 @@ class _HomePageState extends State<HomePage> {
               Container(
                 color: Theme.of(context).colorScheme.surface,
                 padding: const EdgeInsets.all(8),
-                child:
-                    ListView(
+                child: ListView(
                   children: categories.map((category) {
                     return Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -185,7 +184,7 @@ class _HomePageState extends State<HomePage> {
                   }).toList(),
                 ),
               ),
-              ],
+            ],
           ),
         ),
       ),

@@ -9,7 +9,7 @@ List<Map<String, dynamic>> fooditems = [
   },
   {
     "name": "BURGER",
-    "path": "assets/burger.jpg",
+    "path": "assets/burger (2).jpg",
     "info":
         "A veggie burger is a hamburger made with a vegetarian patty. The patty may be made from ingredients like beans (especially soybeans and tofu), nuts, grains, vegetables, or fungi such as mushrooms. These is made of entirely vegetarian ingredients such as legumes or other plant-derived proteins.",
     "loc": "Ajay's Burger, McDonalds, Burger King",
@@ -327,6 +327,7 @@ List<Map<String, dynamic>> fooditems = [
     "loc": "Belgium Waffles",
     "price": "Approx 150-200 Rupees",
   },
+
 ];
 
 final List<Map<String, dynamic>> categories = [
