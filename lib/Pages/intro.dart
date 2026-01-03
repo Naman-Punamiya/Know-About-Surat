@@ -34,7 +34,7 @@ class IntroPage extends StatelessWidget {
             ),),
             const SizedBox(height: 10),
 
-            Text("Taste the Best Surat Food And Best Places To Explore In Surat", style: TextStyle(
+            Text("Taste the Best Food of Surat And Best Places To Explore In Surat", style: TextStyle(
               // fontSize: 44,
               color: Colors.grey[600],
               height: 2
